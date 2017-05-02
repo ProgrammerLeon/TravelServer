@@ -1,0 +1,415 @@
+四月 14, 2017 10:27:52 上午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+四月 14, 2017 10:27:52 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 10:27:52 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 10:27:53 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+四月 14, 2017 10:27:53 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 10:27:53 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 10:27:53 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 10:27:53 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.77
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Mar 28 2017 16:01:48 UTC
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.77.0
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Mac OS X
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.12.4
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          x86_64
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_121-b13
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/conf/logging.properties
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/endorsed
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/temp
+四月 14, 2017 10:28:15 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/lianghuanxiang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+四月 14, 2017 10:28:15 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 10:28:15 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 833 ms
+四月 14, 2017 10:28:15 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 14, 2017 10:28:15 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.77
+四月 14, 2017 10:28:15 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/docs
+四月 14, 2017 10:28:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/docs has finished in 491 ms
+四月 14, 2017 10:28:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/examples
+四月 14, 2017 10:28:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/examples has finished in 386 ms
+四月 14, 2017 10:28:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/host-manager
+四月 14, 2017 10:28:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/host-manager has finished in 64 ms
+四月 14, 2017 10:28:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/manager
+四月 14, 2017 10:28:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/manager has finished in 60 ms
+四月 14, 2017 10:28:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/ROOT
+四月 14, 2017 10:28:16 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/ROOT has finished in 90 ms
+四月 14, 2017 10:28:16 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 10:28:17 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 10:28:17 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1173 ms
+四月 14, 2017 10:28:40 上午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+四月 14, 2017 10:28:40 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 10:28:40 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 10:28:40 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+四月 14, 2017 10:28:40 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 10:28:40 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 10:28:40 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 10:28:40 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.77
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Mar 28 2017 16:01:48 UTC
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.77.0
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Mac OS X
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.12.4
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          x86_64
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_121-b13
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/conf/logging.properties
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/endorsed
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/temp
+四月 14, 2017 12:04:07 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/lianghuanxiang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+四月 14, 2017 12:04:07 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 12:04:07 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1554 ms
+四月 14, 2017 12:04:07 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 14, 2017 12:04:07 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.77
+四月 14, 2017 12:04:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/docs
+四月 14, 2017 12:04:08 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/docs has finished in 725 ms
+四月 14, 2017 12:04:08 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/examples
+四月 14, 2017 12:04:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/examples has finished in 562 ms
+四月 14, 2017 12:04:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/host-manager
+四月 14, 2017 12:04:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/host-manager has finished in 141 ms
+四月 14, 2017 12:04:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/manager
+四月 14, 2017 12:04:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/manager has finished in 73 ms
+四月 14, 2017 12:04:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/ROOT
+四月 14, 2017 12:04:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/ROOT has finished in 64 ms
+四月 14, 2017 12:04:09 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 12:04:09 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 12:04:09 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1681 ms
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.77
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Mar 28 2017 16:01:48 UTC
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.77.0
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Mac OS X
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.12.4
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          x86_64
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_121-b13
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/conf/logging.properties
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/endorsed
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=/Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/temp
+四月 14, 2017 5:11:10 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/lianghuanxiang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+四月 14, 2017 5:11:10 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 5:11:10 下午 org.apache.coyote.AbstractProtocol init
+严重: Failed to initialize end point associated with ProtocolHandler ["http-bio-8080"]
+java.net.BindException: Address already in use (Bind failed) <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:715)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:642)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:667)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 17 more
+
+四月 14, 2017 5:11:10 下午 org.apache.catalina.core.StandardService initInternal
+严重: Failed to initialize connector [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:642)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:667)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:980)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	... 12 more
+Caused by: java.net.BindException: Address already in use (Bind failed) <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:715)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	... 13 more
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 17 more
+
+四月 14, 2017 5:11:10 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 5:11:10 下午 org.apache.coyote.AbstractProtocol init
+严重: Failed to initialize end point associated with ProtocolHandler ["ajp-bio-8009"]
+java.net.BindException: Address already in use (Bind failed) <null>:8009
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:715)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:642)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:667)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 16 more
+
+四月 14, 2017 5:11:10 下午 org.apache.catalina.core.StandardService initInternal
+严重: Failed to initialize connector [Connector[AJP/1.3-8009]]
+org.apache.catalina.LifecycleException: Failed to initialize component [Connector[AJP/1.3-8009]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:642)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:667)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:980)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	... 12 more
+Caused by: java.net.BindException: Address already in use (Bind failed) <null>:8009
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:715)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	... 13 more
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 16 more
+
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 947 ms
+四月 14, 2017 5:11:10 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 14, 2017 5:11:10 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.77
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/docs
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/docs has finished in 435 ms
+四月 14, 2017 5:11:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/examples
+四月 14, 2017 5:11:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/examples has finished in 343 ms
+四月 14, 2017 5:11:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/host-manager
+四月 14, 2017 5:11:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/host-manager has finished in 76 ms
+四月 14, 2017 5:11:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/manager
+四月 14, 2017 5:11:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/manager has finished in 49 ms
+四月 14, 2017 5:11:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/ROOT
+四月 14, 2017 5:11:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory /Users/lianghuanxiang/Desktop/TravelServer/旅游服务器/apache-tomcat-7.0.77/webapps/ROOT has finished in 59 ms
+四月 14, 2017 5:11:11 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1022 ms
+四月 14, 2017 5:11:11 下午 org.apache.catalina.core.StandardServer await
+严重: StandardServer.await: create[localhost:8005]: 
+java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:444)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:781)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:727)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:294)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:428)
+
+四月 14, 2017 5:11:11 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 5:11:11 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 5:11:11 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+四月 14, 2017 5:11:11 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 5:11:11 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-8080"]
+四月 14, 2017 5:11:11 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+四月 14, 2017 5:11:11 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
